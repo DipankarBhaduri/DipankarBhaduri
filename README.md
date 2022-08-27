@@ -1,4 +1,4 @@
-![logo](https://github.com/DipankarBhaduri/DipankarBhaduri/blob/main/IMG_20220827_094506.jpg)
+![logo](https://github.com/DipankarBhaduri/DipankarBhaduri/blob/main/Banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Dipankar Bhaduri</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
